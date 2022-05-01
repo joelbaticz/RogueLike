@@ -1,0 +1,83 @@
+﻿  AssetManager.cpp
+C:\!PROGRAMMING\Game\Game\Game\GameEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Button.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Camera3D.cpp
+  CanvasNode.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Checkbox.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Color.cpp
+C:\!PROGRAMMING\Game\Game\Game\Color.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ControlNode.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Cube.cpp
+  Floor.cpp
+  Font.cpp
+C:\!PROGRAMMING\Game\Game\Game\Texture.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameEngine.cpp
+C:\!PROGRAMMING\Game\Game\Game\GameEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GraphicsContext.cpp
+C:\!PROGRAMMING\Game\Game\Game\Color.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  InfoPane.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  IniFileParser.cpp
+C:\!PROGRAMMING\Game\Game\Game\IniFileParser.cpp(27,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Label.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Level.cpp
+  LevelEditor.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  LevelObject.cpp
+  LoadableResource.cpp
+  LoadingBar.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Compiling...
+  LoadingScreen.cpp
+C:\!PROGRAMMING\Game\Game\Game\GameEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  LoadingScreen2.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Location.cpp
+  LogEngine.cpp
+  main.cpp
+C:\!PROGRAMMING\Game\Game\Game\GameEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  EventManager.cpp
+C:\!PROGRAMMING\Game\Game\Game\GameEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Math.cpp
+  Node.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Palette.cpp
+C:\!PROGRAMMING\Game\Game\Game\Color.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ProgressBar.cpp
+C:\!PROGRAMMING\Game\Game\Game\GameEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Readme.cpp
+  Rectangle.cpp
+  RenderingEngine.cpp
+C:\!PROGRAMMING\Game\Game\Game\RenderingEngine.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Resource.cpp
+  ShapeNode.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Singleton.cpp
+  Size.cpp
+  SpriteNinePatch.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SpriteNode.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Test1.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Compiling...
+  TestWindow.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextNode.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Texture.cpp
+C:\!PROGRAMMING\Game\Game\Game\Texture.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureAtlas.cpp
+C:\!PROGRAMMING\Game\Game\Game\Texture.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureImage.cpp
+C:\!PROGRAMMING\Game\Game\Game\Texture.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TODO.cpp
+  ToolWindow.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Viewport.cpp
+C:\!PROGRAMMING\Game\Game\Game\Node.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
